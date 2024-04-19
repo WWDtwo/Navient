@@ -1,0 +1,13 @@
+h1 {
+    font-family: "DM Serif Display", serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navientData {
+    border: solid 1px #000000;
+}
+
+.bodyCopy {
+    font-family: "Montserrat", sans-serif;
+}
